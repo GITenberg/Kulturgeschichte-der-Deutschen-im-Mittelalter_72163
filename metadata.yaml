@@ -1,5 +1,8 @@
 _repo: Kulturgeschichte-der-Deutschen-im-Mittelalter_72163
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72163-h/images/cover.jpg
 creator:
   author:
     agent_name: Steinhausen, Georg
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56573
     wikipedia: https://de.wikipedia.org/wiki/Georg_Steinhausen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72163#Kulturgeschichte-der-Deutschen-im-Mittelalter
 gutenberg_issued: '2023-11-18'
 identifiers:
   gutenberg: '72163'
